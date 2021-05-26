@@ -19,7 +19,8 @@ public class Order {
 		// TODO Auto-generated constructor stub
 	}
 	public int getId() {
-		return id;
+		int getname = id;
+		return getname;
 	}
 	public void setId(int id) {
 		this.id = id;
